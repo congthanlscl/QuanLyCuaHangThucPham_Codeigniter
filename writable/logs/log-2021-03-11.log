@@ -1,0 +1,37 @@
+CRITICAL - 2021-03-11 09:19:34 --> Call to undefined function Modules\Admin\Controllers\ms()
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Categories->ajaxAddCategories()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-11 09:22:54 --> Call to a member function setRules() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Categories->ajaxAddCategories()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-11 09:23:07 --> Call to a member function setRules() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Categories->ajaxAddCategories()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-11 09:23:51 --> Too few arguments to function CodeIgniter\Controller::validate(), 0 passed in /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Categories.php on line 63 and at least 1 expected
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Categories.php(63): CodeIgniter\Controller->validate()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Categories->ajaxAddCategories()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-11 09:27:02 --> Call to a member function getError() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Categories->ajaxAddCategories()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-03-11 09:29:43 --> Cannot access protected property CodeIgniter\Validation\Validation::$errors
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Categories->ajaxAddCategories()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

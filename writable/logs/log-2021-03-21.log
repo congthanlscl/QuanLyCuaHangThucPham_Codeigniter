@@ -1,0 +1,61 @@
+CRITICAL - 2021-03-21 09:03:50 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php on line 25
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php(25): CodeIgniter\Database\BaseBuilder->insert()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Tags.php(77): Modules\Admin\Models\TagsModel->addTags()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Tags->ajaxAddTags()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-03-21 09:05:32 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php on line 25
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php(25): CodeIgniter\Database\BaseBuilder->insert()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Tags.php(77): Modules\Admin\Models\TagsModel->addTags()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Tags->ajaxAddTags()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-03-21 09:07:29 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php on line 25
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php(25): CodeIgniter\Database\BaseBuilder->insert()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Tags.php(77): Modules\Admin\Models\TagsModel->addTags()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Tags->ajaxAddTags()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-03-21 09:08:01 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php on line 25
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php(25): CodeIgniter\Database\BaseBuilder->insert()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Tags.php(76): Modules\Admin\Models\TagsModel->addTags()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Tags->ajaxAddTags()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-03-21 09:08:23 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php on line 25
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Models/TagsModel.php(25): CodeIgniter\Database\BaseBuilder->insert()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Tags.php(76): Modules\Admin\Models\TagsModel->addTags()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Tags->ajaxAddTags()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-03-21 10:37:42 --> syntax error, unexpected ')', expecting ';' or ','
+#0 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/BaseController.php(76): view()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): Modules\Admin\Controllers\BaseController->view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-21 10:37:42 --> syntax error, unexpected ')', expecting ';' or ','
+#0 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/BaseController.php(76): view()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): Modules\Admin\Controllers\BaseController->view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-21 11:32:40 --> Cannot redeclare Modules\Admin\Controllers\Provider::updateProvider()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

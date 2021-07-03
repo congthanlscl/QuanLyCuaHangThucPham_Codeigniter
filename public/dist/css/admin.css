@@ -1,0 +1,50 @@
+.product-results table thead {
+    background-color: #f2f2f2;
+}
+
+.zoomin img {
+    height: 50px;
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+    transition: all 2s ease;
+}
+.zoomin img:hover {
+    height: 300px;
+}
+
+#delete-product{
+
+    cursor: pointer;
+}
+.blue{
+    color: #0B87C9;
+}
+
+.orange{
+    color: #ff892a;
+}
+
+.cred{
+    color: #D53F40;
+}
+.report-box{
+    padding: 10px 0 10px 20px;
+    overflow: hidden;
+    min-height: 75px;
+}
+.infobox-icon{
+
+    float: left;
+    width: 20%;
+    min-height: 100%;
+}
+.infobox-data{
+    float: left;
+}
+.infobox-title{
+    display: inline-block;
+}
+.infobox-data-number{
+    display: inline-block;
+}

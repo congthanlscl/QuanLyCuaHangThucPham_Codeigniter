@@ -1,0 +1,594 @@
+CRITICAL - 2021-03-10 01:48:07 --> Invalid file: index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 01:49:50 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 01:50:06 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 01:53:52 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 01:54:54 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 01:54:55 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 01:54:55 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 01:56:01 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:05:01 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:05:02 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:05:03 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:07:18 --> Class 'Modules\Admin\Controllers\BaseController' not found
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(365): require_once()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-10 02:07:20 --> Class 'Modules\Admin\Controllers\BaseController' not found
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(365): require_once()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-10 02:08:43 --> Class 'Modules\Admin\Controllers\BaseController\BaseController' not found
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(365): require_once()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-10 02:08:44 --> Class 'Modules\Admin\Controllers\BaseController\BaseController' not found
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(365): require_once()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-10 02:09:08 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:09:21 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:10:37 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:10:38 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:10:39 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:10:52 --> Invalid file: index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:10:53 --> Invalid file: index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:11:09 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:11:11 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:12:02 --> Invalid file: Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:19:53 --> syntax error, unexpected ':', expecting ')'
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-10 02:20:37 --> syntax error, unexpected ':', expecting ')'
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-10 02:20:46 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:47 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:47 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:47 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:47 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:48 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:48 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:48 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:49 --> Invalid file: \Modules\Admin\Views\index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:20:55 --> Invalid file: .\Modules\Admin\Views\index
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:21:26 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:21:27 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:21:27 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:21:28 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:23:22 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:23:23 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:27:47 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:27:48 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): App\Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:29:50 --> Class 'Modules\Admin\Controllers\BaseController' not found
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(365): require_once()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-10 02:30:05 --> Class 'Modules\Admin\Controllers\BaseController' not found
+#0 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(365): require_once()
+#1 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#2 /var/www/CuaHangThucPham/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(869): class_exists()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-03-10 02:32:04 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:32:39 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:32:39 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:32:40 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:32:41 --> Invalid file: Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:34:30 --> Invalid file: /var/www/CuaHangThucPham/app/Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:34:33 --> Invalid file: /var/www/CuaHangThucPham/app/Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:35:52 --> Invalid file: /var/www/CuaHangThucPham/app/Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:39:41 --> Invalid file: /var/www/CuaHangThucPham/app/Modules/Admin/Views/index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:48:38 --> Invalid file: index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:48:41 --> Invalid file: index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 02:48:41 --> Invalid file: index.php
+#0 /var/www/CuaHangThucPham/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(19): view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 03:06:21 --> array_merge(): Expected parameter 1 to be an array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/BaseController.php(73): array_merge()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): Modules\Admin\Controllers\BaseController->view()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-03-10 03:07:25 --> Call to undefined function userdata()
+#0 /var/www/CuaHangThucPham/system/View/View.php(246): include()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/BaseController.php(76): view()
+#3 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): Modules\Admin\Controllers\BaseController->view()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-10 03:08:27 --> Call to undefined function userdata()
+#0 /var/www/CuaHangThucPham/system/View/View.php(246): include()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/BaseController.php(76): view()
+#3 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): Modules\Admin\Controllers\BaseController->view()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-10 03:09:56 --> Call to undefined function userdata()
+#0 /var/www/CuaHangThucPham/system/View/View.php(246): include()
+#1 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/BaseController.php(76): view()
+#3 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): Modules\Admin\Controllers\BaseController->view()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-03-10 03:55:13 --> Unable to connect to the database.
+#0 /var/www/CuaHangThucPham/system/Database/BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/CuaHangThucPham/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query()
+#2 /var/www/CuaHangThucPham/app/Modules/Admin/Models/CategoriesModel.php(17): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Categories.php(22): Modules\Admin\Models\CategoriesModel->getCategories()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Categories->index()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

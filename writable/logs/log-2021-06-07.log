@@ -1,0 +1,8 @@
+CRITICAL - 2021-06-07 23:37:46 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::orLike() must be of the type string, null given, called in /var/www/CuaHangThucPham/app/Modules/Admin/Models/AdminModel.php on line 33
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Models/AdminModel.php(33): CodeIgniter\Database\BaseBuilder->orLike()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(27): Modules\Admin\Models\AdminModel->getProducts()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->getProducts()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

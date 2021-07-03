@@ -1,0 +1,14 @@
+CRITICAL - 2021-05-22 03:25:00 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::insertID()
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Products.php(204): Modules\Admin\Models\ProductsModel->addProducts()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Products->ajaxAddProducts()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-05-22 03:28:46 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::insertID()
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Products.php(204): Modules\Admin\Models\ProductsModel->addProducts()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Products->ajaxAddProducts()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,86 @@
+a {
+    color: #0e0e0f;
+    text-decoration: none!important;
+}
+a:hover {
+    text-decoration: none!important;
+    color: #111385;
+}
+a.general{
+    color: #1e1e8a!important;
+}
+a.general:hover{
+    color: #1e1e8a!important;
+}
+a.menu{
+    color: #1e1e8a!important;
+}
+a.menu:hover,
+a.menu.active{
+    color: #ffffff!important;
+}
+.title, h1.article,.default-title,.titles{
+    color: #037541;
+    text-transform: uppercase;
+    /*background-color: #17ca38;*/
+    /*margin: auto;*/
+}
+
+.super-title{
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: #1dad4b;
+    margin: auto;
+    padding: 10px;
+}
+
+.super-title1{
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: #00b761;
+    margin: auto;
+}
+
+@media screen and (min-width: 375px) and (max-width: 768px)
+{
+    .titles-blog{
+        height: 120px;
+    }
+}
+@media screen and (max-width: 375px)
+{
+    .titles-blog{
+        height: 155px;
+    }
+}
+@media screen and (min-width: 768px)
+{
+    .tlblogs{
+        position: absolute;
+    }
+    .titles.titles-blog {
+        height: 50px;
+    }
+}
+h1.title {
+    line-height: 21px!important;
+    font-size: 23px;
+    font-weight: 100!important;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+    background-color: #0098D1;
+    border: 1px solid #0098D1;
+}
+.navbar-toggle {
+    color: #fff!important;
+}
+
+.menu-linklist-item-wrap{
+    display: inline-block;
+    border-bottom: 2px solid #E25B26;
+    margin-bottom: -2px;
+    padding: 0 15px 10px;
+    font-weight: 700;
+    color: #E25B26;
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+CRITICAL - 2021-05-21 10:04:15 --> Class 'Modules\Admin\Controllers\getProducts' not found
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(890): Modules\Admin\Controllers\Products->__construct()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-05-21 10:04:38 --> Class 'Modules\Admin\Controllers\getProducts' not found
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(890): Modules\Admin\Controllers\Products->__construct()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-05-21 12:19:53 --> Could not move file phpSVzsPA to /var/www/CuaHangThucPham/public/images/products/ ()
+#0 /var/www/CuaHangThucPham/system/HTTP/Files/UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Products.php(161): CodeIgniter\HTTP\Files\UploadedFile->move()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Products->ajaxAddProducts()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-05-21 12:19:55 --> Could not move file php3VSs2H to /var/www/CuaHangThucPham/public/images/products/ ()
+#0 /var/www/CuaHangThucPham/system/HTTP/Files/UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Products.php(161): CodeIgniter\HTTP\Files\UploadedFile->move()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Products->ajaxAddProducts()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-05-21 12:21:08 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::insert() must be of the type array or null, string given, called in /var/www/CuaHangThucPham/app/Modules/Admin/Models/ProductsModel.php on line 52
+#0 /var/www/CuaHangThucPham/app/Modules/Admin/Models/ProductsModel.php(52): CodeIgniter\Database\BaseBuilder->insert()
+#1 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Products.php(168): Modules\Admin\Models\ProductsModel->addProducts()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Products->ajaxAddProducts()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

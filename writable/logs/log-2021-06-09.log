@@ -1,0 +1,216 @@
+CRITICAL - 2021-06-09 01:19:13 --> strpos(): Empty needle
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Views/template/admin.php(147): strpos()
+#2 /var/www/CuaHangThucPham/system/View/View.php(246): include('/var/www/CuaHan...')
+#3 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#4 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/BaseController.php(76): view()
+#5 /var/www/CuaHangThucPham/app/Modules/Admin/Controllers/Admin.php(20): Modules\Admin\Controllers\BaseController->view()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->index()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-06-09 03:23:54 --> The action you requested is not allowed.
+#0 /var/www/CuaHangThucPham/system/Security/Security.php(233): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /var/www/CuaHangThucPham/system/Filters/CSRF.php(88): CodeIgniter\Security\Security->CSRFVerify()
+#2 /var/www/CuaHangThucPham/system/Filters/Filters.php(173): CodeIgniter\Filters\CSRF->before()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 03:23:55 --> The action you requested is not allowed.
+#0 /var/www/CuaHangThucPham/system/Security/Security.php(233): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /var/www/CuaHangThucPham/system/Filters/CSRF.php(88): CodeIgniter\Security\Security->CSRFVerify()
+#2 /var/www/CuaHangThucPham/system/Filters/Filters.php(173): CodeIgniter\Filters\CSRF->before()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 03:26:10 --> The action you requested is not allowed.
+#0 /var/www/CuaHangThucPham/system/Security/Security.php(233): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /var/www/CuaHangThucPham/system/Filters/CSRF.php(88): CodeIgniter\Security\Security->CSRFVerify()
+#2 /var/www/CuaHangThucPham/system/Filters/Filters.php(173): CodeIgniter\Filters\CSRF->before()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 03:26:11 --> The action you requested is not allowed.
+#0 /var/www/CuaHangThucPham/system/Security/Security.php(233): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /var/www/CuaHangThucPham/system/Filters/CSRF.php(88): CodeIgniter\Security\Security->CSRFVerify()
+#2 /var/www/CuaHangThucPham/system/Filters/Filters.php(173): CodeIgniter\Filters\CSRF->before()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 03:41:54 --> Call to a member function get() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(890): Modules\Home\Controllers\Home->__construct()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 03:43:14 --> Call to a member function get() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(890): Modules\Home\Controllers\Home->__construct()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 03:43:20 --> Call to a member function get() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(890): Modules\Home\Controllers\Home->__construct()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 03:43:29 --> Call to a member function set() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(890): Modules\Home\Controllers\Home->__construct()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 03:43:36 --> Call to a member function set() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(890): Modules\Home\Controllers\Home->__construct()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 04:02:26 --> Invalid argument supplied for foreach()
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Models/HomeModel.php(116): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(23): Modules\Home\Models\HomeModel->getCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->index()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 05:31:29 --> count(): Parameter must be an array or an object that implements Countable
+#0 /var/www/CuaHangThucPham/app/Views/template/home.php(430): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/system/View/View.php(246): include('/var/www/CuaHan...')
+#2 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(127): view()
+#4 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(36): Modules\Home\Controllers\BaseController->view()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->index()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-09 05:31:35 --> count(): Parameter must be an array or an object that implements Countable
+#0 /var/www/CuaHangThucPham/app/Views/template/home.php(430): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/system/View/View.php(246): include('/var/www/CuaHan...')
+#2 /var/www/CuaHangThucPham/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(127): view()
+#4 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(36): Modules\Home\Controllers\BaseController->view()
+#5 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->index()
+#6 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-09 07:29:40 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 07:29:40 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 07:29:41 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 07:29:41 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 07:29:43 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 07:29:43 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 07:30:12 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 07:30:12 --> Creating default object from empty value
+#0 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/BaseController.php(104): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/CuaHangThucPham/app/Modules/Home/Controllers/Home.php(169): Modules\Home\Controllers\BaseController->updateToCart()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxUpdateCart()
+#3 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-06-09 09:00:10 --> Call to a member function addBill() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxOrder()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 09:00:52 --> Call to a member function addBill() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxOrder()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 09:01:47 --> Call to a member function addBill() on null
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Home\Controllers\Home->ajaxOrder()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 10:50:02 --> Call to undefined function Modules\Admin\Controllers\ms()
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->ajaxLogin()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 10:50:03 --> Call to undefined function Modules\Admin\Controllers\ms()
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->ajaxLogin()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 10:51:13 --> Call to undefined function Modules\Admin\Controllers\ms()
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->ajaxLogin()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 10:51:32 --> Call to undefined function Modules\Admin\Controllers\ms()
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->ajaxLogin()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-09 10:51:43 --> Call to undefined function Modules\Admin\Controllers\ms()
+#0 /var/www/CuaHangThucPham/system/CodeIgniter.php(918): Modules\Admin\Controllers\Admin->ajaxLogin()
+#1 /var/www/CuaHangThucPham/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/CuaHangThucPham/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/CuaHangThucPham/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
